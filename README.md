@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🌱 Estudante da UFABC
+- 🌱 Estudante da UFABC 
 
 <div align="center">
   <a href="https://github.com/AndreMarques2002">
