@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🌱 Estudante da UFABC     
+- 📡Engenharia de Informação (UFABC)
      
 <div align="center">  
   <a href="https://github.com/AndreMarques2002">     
