@@ -10,6 +10,7 @@
      
   
 <div align="center">
-  ![snake gif](https://github.com/AndreMarques2002/AndreMarques2002blob/output/github-contribution-grid-snake.svg)
+     
+  ![snake gif](https://github.com/AndreMarques2002/AndreMarques2002/blob/output/github-contribution-grid-snake.svg)
 
   </div> 
