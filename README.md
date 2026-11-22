@@ -8,7 +8,7 @@ Analytics Engineer com foco em **machine learning**.
 
 - MBA em Data Science, Inteligência Artificial e Analytics — USP
 - Bacharelado em Engenharia de Informação — UFABC
-- Bacharelado em Ciência e Tecnologia — UFABC
+- Bacharelado em Ciência e Tecnologia — UFABC 
 
 ---
 
